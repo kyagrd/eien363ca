@@ -4,7 +4,7 @@
 http://kyagrd.github.io/
 
 교과서는 교내 서점에서 구입 
-* Computer Organization and Design: the hardware/software interface (5th ed., Asian ed.)
+* Computer Organization and Design: the hardware/software interface (5th ed., Asian ed.)<br/>
   Patterson & Hennessy, Elsevier Korea LLC, ISBN 978-89-94961-89-7
 
 학점 평가 방침: 출석/퀴즈 25%, 과제 25%, 중간 25%, 기말 25%
