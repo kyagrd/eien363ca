@@ -16,4 +16,5 @@ http://kyagrd.github.io/
     [동영상2](https://youtu.be/0lOVPQhpIMM),
     [동영상3](https://youtu.be/m0xsLWYs17Q),
     [동영상4](https://youtu.be/99iXM4wPkJk),
-    [동영상5](https://youtu.be/eD22zdX1m-E), ...
+    [동영상5](https://youtu.be/eD22zdX1m-E),
+    [동영상6](https://youtu.be/g_xf1Y9ZvOI)
