@@ -12,3 +12,6 @@ http://kyagrd.github.io/
 ## 강의노트
 * [2016-03-09 수업계획 및 기본개념](https://slides.com/kyagrd/ca2016spring0309)
 * [2016-03-10 Instruction](http://slides.com/kyagrd/ca2016spring0310)
+  * [동영상1](https://youtu.be/F5rvsziqRfI),
+    [동영상2](https://youtu.be/0lOVPQhpIMM),
+    [동영상3](https://youtu.be/m0xsLWYs17Q), ...
