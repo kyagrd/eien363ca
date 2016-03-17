@@ -33,12 +33,12 @@ main:
 	
 	# print integer value in t0
 	li $v0, 1       # syscall 1 (print_int)
-  move $a0, $t0   # argument: integer 
-  syscall         # print the integer 
+	move $a0, $t0   # argument: integer 
+ 	syscall         # print the integer 
 
 	# print a newline charactor
-	li $v0, 4       # syscall 1 (print_string)
-  la $a0, endl    # argument: string
-  syscall         # print the string
+	li $v0, 4       # syscall 4 (print_string)
+	la $a0, endl    # argument: string
+	syscall         # print the string
         
-  jr $ra          # retrun to caller
+  	jr $ra          # retrun to caller
