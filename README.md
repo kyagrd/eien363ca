@@ -23,4 +23,4 @@ http://kyagrd.github.io/
     [동영상6](https://youtu.be/g_xf1Y9ZvOI)
 * [2016-03-16 MIPS Instruction](http://slides.com/kyagrd/ca2016spring0316)
 * [2016-03-17 MIPS Assembly, Data Transfer instructions](http://slides.com/kyagrd/ca2016spring0317)
-* 2016-03-23 과제1 설명 및 branch/jump 관련 MIPS Assembly (관련 소스코드 [loop.s](https://github.com/kyagrd/eien363ca/blob/master/dirs/mips/loop.s) )
+* 2016-03-23 과제1 설명 및 branch/jump 관련 MIPS Assembly (예제 소스코드 [loop.s](https://github.com/kyagrd/eien363ca/blob/master/dirs/mips/loop.s) )
