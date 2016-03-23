@@ -9,6 +9,9 @@ http://kyagrd.github.io/
 
 학점 평가 방침: 출석/퀴즈 25%, 과제 25%, 중간 25%, 기말 25%
 
+## 과제
+1. **Due: 2016-03-29일 화요일 밤** 정수 배열(연속된 메모리에 저장된 정수들)의 합을 반복문 형태에 해당하는 어셈블리 코드로 구하시오 (과제를 시작할 템플릿 파일 [hw1.s](https://github.com/kyagrd/eien363ca/blob/master/dirs/mips/hw1.s) )
+
 ## 강의노트
 * [2016-03-09 수업계획 및 기본개념](https://slides.com/kyagrd/ca2016spring0309)
 * [2016-03-10 Instruction](http://slides.com/kyagrd/ca2016spring0310)
@@ -20,3 +23,4 @@ http://kyagrd.github.io/
     [동영상6](https://youtu.be/g_xf1Y9ZvOI)
 * [2016-03-16 MIPS Instruction](http://slides.com/kyagrd/ca2016spring0316)
 * [2016-03-17 MIPS Assembly, Data Transfer instructions](http://slides.com/kyagrd/ca2016spring0317)
+* 2016-03-23 과제1 설명 및 branch/jump 관련 MIPS Assembly (관련 소스코드 [loop.s](https://github.com/kyagrd/eien363ca/blob/master/dirs/mips/loop.s) )
