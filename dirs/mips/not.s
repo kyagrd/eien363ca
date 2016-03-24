@@ -1,4 +1,4 @@
-# negnot.s
+# not.s
         .data
 endl:	.asciiz "\n"
 
@@ -6,7 +6,6 @@ endl:	.asciiz "\n"
         .globl main
 main:
 	li $t1, 153
-	neg $t2, $t1 # t2 is a negation of t1 as an integer value
 	not $t3, $t1 # t3 is a bitwise negation of t1
 	add $t0, $t1, $t3
 
