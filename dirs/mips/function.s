@@ -1,7 +1,14 @@
-# loop.s
+# function.s
 #
-# 과제1을 돕기 위한 MIPS 어셈블리로 반복문 프로그래밍하는 예시 프로그램
-# 0부터 9까지의 정수 출력
+# 함수 호출 예제
+#
+# int addd(int x, int y) { return x+y; }
+# int twice(int x) { return addd(x,x); }
+# int main(void) {
+#   int n = twice(8);
+#   printf("%d\n", n);
+#   return 0;
+# }
 
         .data
 endl:	.asciiz "\n"
