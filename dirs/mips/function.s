@@ -26,7 +26,7 @@ main:
 	addi $sp, $sp, -4
 	sw $ra, 0($sp)
 
-	li $a0, 4
+	li $a0, 8
 	jal twice
 	move $t0, $v0
 
