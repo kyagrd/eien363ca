@@ -28,3 +28,7 @@ http://kyagrd.github.io/
 * 2016-03-23 과제1 설명 및 [branch/jump 관련 MIPS Assembly](https://slides.com/kyagrd/ca2016spring0323/) (예제 소스코드 [loop.s](https://github.com/kyagrd/eien363ca/blob/master/dirs/mips/loop.s) )
 * [2016-03-24 3장의 이진수 사칙연산](https://slides.com/kyagrd/ca2016spring0324)
 * [2016-03-30 MIPS 함수 호출과 스택 사용](https://slides.com/kyagrd/ca2016spring0330)
+* 2016-03-31 과제 풀이 및 MIPS로 함수 호출 구현 예제들 
+  * 직전 수업시간에 다룬 twice 함수 예제 [function.s](https://github.com/kyagrd/eien363ca/blob/master/dirs/mips/function.s)
+  * 팩토리알 재귀함수 예제 [factorial.s](https://github.com/kyagrd/eien363ca/blob/master/dirs/mips/factorial.s)
+  * 살짝 다르게 정리한 팩토리알 예제 [fact2.s](https://github.com/kyagrd/eien363ca/blob/master/dirs/mips/fact2.s)
