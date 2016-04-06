@@ -32,4 +32,4 @@ http://kyagrd.github.io/
   * 직전 수업시간에 다룬 twice 함수 예제 [function.s](https://github.com/kyagrd/eien363ca/blob/master/dirs/mips/function.s)
   * 팩토리알 재귀함수 예제 [factorial.s](https://github.com/kyagrd/eien363ca/blob/master/dirs/mips/factorial.s)
   * 살짝 다르게 정리한 팩토리알 예제 [fact2.s](https://github.com/kyagrd/eien363ca/blob/master/dirs/mips/fact2.s)
-* 
+* [2016-04-06 부동 소수점 수 개요](http://slides.com/kyagrd/ca2016spring0406)
