@@ -11,7 +11,7 @@ http://kyagrd.github.io/
 
 ## 과제
 1. **Due: 2016-03-29일 화요일 밤** 연속된 메모리에 저장된 정수들의 합을 반복문 형태의 어셈블리 코드로 구현 <br/> (과제를 시작할 템플릿 파일 [hw1.s](https://github.com/kyagrd/eien363ca/blob/master/dirs/mips/hw1.s) )
-1. TODO
+1. **Due: 2016-04-12일 화요일 밤** binomial coefficient (n개에서 k개를 순서없이 고르는 경우의수) 재귀함수 구현 <br/> (과제를 시작할 템플릿 파일 [hw2.s](https://github.com/kyagrd/eien363ca/blob/master/dirs/mips/hw2.s) )
 2. TODO
 
 ## 강의노트
@@ -32,3 +32,4 @@ http://kyagrd.github.io/
   * 직전 수업시간에 다룬 twice 함수 예제 [function.s](https://github.com/kyagrd/eien363ca/blob/master/dirs/mips/function.s)
   * 팩토리알 재귀함수 예제 [factorial.s](https://github.com/kyagrd/eien363ca/blob/master/dirs/mips/factorial.s)
   * 살짝 다르게 정리한 팩토리알 예제 [fact2.s](https://github.com/kyagrd/eien363ca/blob/master/dirs/mips/fact2.s)
+* 
