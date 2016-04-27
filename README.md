@@ -37,3 +37,4 @@ http://kyagrd.github.io/
 * [2016-04-14 Rounding mode 보충, 중간고사 대비 정리](http://slides.com/kyagrd/ca2016spring0414)
 * 2016-04-21 중간고사
 * 2016-04-27 중간고사 풀이 및 성적 오류 정정, [MIPS 인스터럭션의 Addressing mode 보충](http://slides.com/kyagrd/ca2016spring0427)
+* [2016-04-28 MIPS Pipelining](http://slides.com/kyagrd/ca2016spring0428)
