@@ -34,3 +34,6 @@ http://kyagrd.github.io/
   * 살짝 다르게 정리한 팩토리알 예제 [fact2.s](https://github.com/kyagrd/eien363ca/blob/master/dirs/mips/fact2.s)
 * [2016-04-06 부동 소수점 수 개요](http://slides.com/kyagrd/ca2016spring0406)
 * [2016-04-07 부동 소수점 수 덧셈, 곱셈](https://slides.com/kyagrd/ca2016spring0407)
+* [2016-04-14 Rounding mode 보충, 중간고사 대비 정리](http://slides.com/kyagrd/ca2016spring0414)
+* 2016-04-21 중간고사
+* 2016-04-27 중간고사 풀이 및 성적 오류 정정, [MIPS 인스터럭션의 Addressing mode 보충](http://slides.com/kyagrd/ca2016spring0427)
