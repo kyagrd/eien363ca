@@ -38,3 +38,4 @@ http://kyagrd.github.io/
 * 2016-04-21 중간고사
 * 2016-04-27 중간고사 풀이 및 성적 오류 정정, [MIPS 인스터럭션의 Addressing mode 보충](http://slides.com/kyagrd/ca2016spring0427)
 * [2016-04-28 MIPS Pipelining](http://slides.com/kyagrd/ca2016spring0428)
+* 2016-04-54 파이프라인 실습 도구 [WinMIPS64](http://indigo.ie/~mscott/) 활용
