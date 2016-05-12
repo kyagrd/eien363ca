@@ -39,3 +39,4 @@ http://kyagrd.github.io/
 * 2016-04-27 중간고사 풀이 및 성적 오류 정정, [MIPS 인스터럭션의 Addressing mode 보충](http://slides.com/kyagrd/ca2016spring0427)
 * [2016-04-28 MIPS Pipelining](http://slides.com/kyagrd/ca2016spring0428)
 * 2016-05-4 파이프라인 실습 도구 [WinMIPS64](http://indigo.ie/~mscott/) 활용
+* 2016-05-11 WinMIPS64로 실습했던 data hazard (forwarding으로도 stall이 생기는 메모리 값 의존 관련) 및 control hazard (branch prediction 관련) [소스코드들](https://github.com/kyagrd/eien363ca/tree/master/dirs/winMIPS64)
