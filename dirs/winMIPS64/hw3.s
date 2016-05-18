@@ -39,7 +39,7 @@ loop:
 #      have both "Enable Forwarding" and "Enable Branch Target Buffer"
 #      turned on in the Configure (Alt-C) menu of WinMIPS64.
 #
-#  (a) Copy this code to filename "hw3b.s" and modify it to reduce stalls
+#  (b) Copy this code to filename "hw3b.s" and modify it to reduce stalls
 #      as much as possible by reordring the instructions and you can also
 #      try to do loop unrolling if ncessary, without changing the result
 #      of the program (i.e., memory values in m1 and m2). For this problem,
